@@ -22,5 +22,5 @@ I’m a passionate .NET developer with 5 years of experience in building robust 
 ![](https://github-readme-stats.vercel.app/api?username=jafarabbaspour&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jafarabbaspour&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jafarabbaspour&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
---># 
+-->
 
