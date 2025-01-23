@@ -29,13 +29,13 @@ I’m a passionate .NET developer with 5 years of experience in building robust 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%230E4D92.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 ![SignalR](https://img.shields.io/badge/SignalR-%230E4D92.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-%2300A9C1.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
-![OOP](https://img.shields.io/badge/OOP-%23E34F26.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 ![LINQ](https://img.shields.io/badge/LINQ-%23323330.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 ![T-SQL](https://img.shields.io/badge/T--SQL-%232E8B57.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 ![SEO](https://img.shields.io/badge/SEO-%23E34F26.svg?style=for-the-badge&logo=google&logoColor=white)  
+![OOP](https://img.shields.io/badge/OOP-%23E34F26.svg?style=for-the-badge&logo=.net&logoColor=white)  
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%230E4D92.svg?style=for-the-badge&logo=.net&logoColor=white)
 
 
 
